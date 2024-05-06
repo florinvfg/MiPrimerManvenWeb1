@@ -40,6 +40,11 @@
     palette
     </span>
         </a>
+        <a href="plantilla3.jsp" title="Plantilla2">
+            <span class="material-symbols-outlined">
+    palette
+    </span>
+        </a>
     </div>
 
 </body>
